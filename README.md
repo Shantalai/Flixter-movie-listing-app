@@ -22,10 +22,14 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 - [ ] (2pts) Improved the user interface by experimenting with styling and coloring.
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
-### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+## Video Walkthrough
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+Here's a walkthrough of implemented user stories:
+
+<img src='walkthrough.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 
 ### Notes
 Grasping the overall file structure used in the android studio, understanding relation of classes amd XML files. I ran into small issue while attepting to connect git to the Android studio, so I used the terminal instead for initializing repository and pushing to GitHub.It worked fine!

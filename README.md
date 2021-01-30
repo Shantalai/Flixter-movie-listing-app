@@ -26,7 +26,7 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' /><br>
+<img src='walkthrough.gif' title='Video Walkthrough' width='1200' alt='Video Walkthrough' /><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
